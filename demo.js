@@ -2,4 +2,4 @@ const greet = (greetings) =>{
     console.log(`hello ${greetings}`)
 }
 greet("world");
-greet("isaac);
+greet("isaac");
