@@ -1,5 +1,10 @@
 const greet = (greetings) =>{
     console.log(`hello ${greetings}`)
 }
-greet("world");
-greet("isaac");
+
+greet(world);
+
+const people =[{
+    name:'isaac',
+    age: 23
+}]
